@@ -1,7 +1,9 @@
-This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community.
+Hands-on Docker Practice Below!
 
-#### Docker tutorials:
+#### Docker for beginners:
 * [Docker for beginners](beginner/readme.md)
+
+#### Other Docker tutorials:
 * [Docker Swarm Mode](swarm-mode/README.md)
 * [Configuring developer tools and programming languages](developer-tools/README.md)
   * Java
