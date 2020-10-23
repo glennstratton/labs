@@ -1,4 +1,4 @@
-This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community. We welcome contributions and want to grow the repo.
+This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community.
 
 #### Docker tutorials:
 * [Docker for beginners](beginner/readme.md)
